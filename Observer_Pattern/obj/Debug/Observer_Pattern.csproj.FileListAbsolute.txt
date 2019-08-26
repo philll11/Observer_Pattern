@@ -1,0 +1,13 @@
+C:\Users\lennyphilips\Documents\158.326\Observer_Pattern\Observer_Pattern\obj\Debug\Observer_Pattern.csprojAssemblyReference.cache
+C:\Users\lennyphilips\Documents\158.326\Observer_Pattern\Observer_Pattern\obj\Debug\Observer_Pattern.CurrentConditions.resources
+C:\Users\lennyphilips\Documents\158.326\Observer_Pattern\Observer_Pattern\obj\Debug\Observer_Pattern.WeatherData.resources
+C:\Users\lennyphilips\Documents\158.326\Observer_Pattern\Observer_Pattern\obj\Debug\Observer_Pattern.Properties.Resources.resources
+C:\Users\lennyphilips\Documents\158.326\Observer_Pattern\Observer_Pattern\obj\Debug\Observer_Pattern.csproj.GenerateResource.cache
+C:\Users\lennyphilips\Documents\158.326\Observer_Pattern\Observer_Pattern\obj\Debug\Observer_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\lennyphilips\Documents\158.326\Observer_Pattern\Observer_Pattern\bin\Debug\Observer_Pattern.exe.config
+C:\Users\lennyphilips\Documents\158.326\Observer_Pattern\Observer_Pattern\bin\Debug\Observer_Pattern.exe
+C:\Users\lennyphilips\Documents\158.326\Observer_Pattern\Observer_Pattern\bin\Debug\Observer_Pattern.pdb
+C:\Users\lennyphilips\Documents\158.326\Observer_Pattern\Observer_Pattern\obj\Debug\Observer_Pattern.exe
+C:\Users\lennyphilips\Documents\158.326\Observer_Pattern\Observer_Pattern\obj\Debug\Observer_Pattern.pdb
+C:\Users\lennyphilips\Documents\158.326\Observer_Pattern\Observer_Pattern\obj\Debug\Observer_Pattern.Forecast.resources
+C:\Users\lennyphilips\Documents\158.326\Observer_Pattern\Observer_Pattern\obj\Debug\Observer_Pattern.WeatherStats.resources
